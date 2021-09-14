@@ -9,7 +9,7 @@
     "JPush": "support@jpush.cn"
   },
   "source": {
-    "http": "https://sdkfiledl.jiguang.cn/cocoapods/jverification/JVerification-iOS-2.6.3.zip"
+    "http": "https://sdkfiledl.jiguang.cn/cocoapods/jverification/JVerification-iOS-2.6.3.2.zip"
   },
   "platforms": {
     "ios": "8.0"
@@ -44,7 +44,7 @@
   "dependencies": {
     "JCore": [
       ">= 2.1.6",
-      "< 3.0.0"
+      "< 6.0.0"
     ]
   },
   "xcconfig": {

@@ -77,10 +77,16 @@
         "OpenMediation/VungleAdapter": [
 
         ],
+        "OpenMediation/TencentAdAdapter": [
+
+        ],
         "OpenMediation/AdColonyAdapter": [
 
         ],
         "OpenMediation/AppLovinAdapter": [
+
+        ],
+        "OpenMediation/MoPubAdapter": [
 
         ],
         "OpenMediation/ChartboostAdapter": [
@@ -93,6 +99,12 @@
 
         ],
         "OpenMediation/MintegralAdapter": [
+
+        ],
+        "OpenMediation/IronSourceAdapter": [
+
+        ],
+        "OpenMediation/FyberAdapter": [
 
         ]
       }
