@@ -2,8 +2,6 @@
   "name": "ADSuyiLocationManagerGPS",
   "version": "0.1.2.05261",
   "summary": "A short description of ADSuyiLocationManager.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/ADSuyiBeta/ADSuyiLocationManagerGPS",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -11,19 +9,22 @@
   "authors": {
     "taoyeming@live.com": "taoyeming@live.com"
   },
+  "homepage": "http://121.41.108.203/adsuyi_kit/adsuyilocationmanagergps",
+  "description": "TODO: Add long description of the pod here.",
+  "frameworks": "CoreLocation",
   "source": {
-    "http": "https://github.com/ADSuyi/ADSuyiLocationManagerGPS/releases/download/0.1.2.05261/ADSuyiLocationManagerGPS-0.1.2.05261.zip"
-  },
-  "platforms": {
-    "ios": "8.0"
+    "git": "http://121.41.108.203/adsuyi_kit/adsuyilocationmanagergps.git",
+    "tag": "0.1.2.05261"
   },
   "dependencies": {
     "ADSuyiLocationManager": [
       "0.1.2.05261"
     ]
   },
-  "source_files": null,
-  "frameworks": "CoreLocation",
-  "static_framework": true,
-  "vendored_frameworks": "ADSuyiLocationManagerGPS-0.1.2.05261/ios/ADSuyiLocationManagerGPS.framework"
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_frameworks": "ADSuyiLocationManagerGPS/Classes/ADSuyiLocationManagerGPS.framework"
+  }
 }
