@@ -17,7 +17,7 @@
     "ios": "8.0"
   },
   "source": {
-    "http": "https://software.insert.io/artifactory/iOS-release/1.51.0.3529.zip"
+    "http": "https://software.mobile.pendo.io/artifactory/iOS-release/1.51.0.3529.zip"
   },
   "source_files": "InsertFramework.framework/Headers/*.h",
   "public_header_files": "InsertFramework.framework/Headers/*.h",
